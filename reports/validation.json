@@ -1,0 +1,26 @@
+{
+  "raw_bookings": 29598,
+  "duplicates_removed": 150,
+  "clean_counts": {
+    "hotels": 3,
+    "guests": 8000,
+    "channels": 3,
+    "inventory": 2193,
+    "bookings": 29408,
+    "booking_nights": 78133,
+    "quarantine": 40,
+    "booking_mart": 29408,
+    "daily_hotel": 2193
+  },
+  "validation_failures": {
+    "guest_channel_refs": 0,
+    "dates": 0,
+    "nights": 0,
+    "night_dates": 0,
+    "inventory_bounds": 0,
+    "physical_rooms": 0,
+    "revenue_reconciliation": 0,
+    "contribution_reconciliation": 0,
+    "complete_grid": 0
+  }
+}

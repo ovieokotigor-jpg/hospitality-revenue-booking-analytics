@@ -1,0 +1,41 @@
+booking_id,hotel_id,guest_id,channel_id,booking_date,arrival_date,departure_date,cancel_date,status,lead_days,nights,quoted_adr_ngn,nightly_service_cost_ngn,special_requests,satisfaction_score,reason
+11319,2,1546,3,2024-10-12,2024-11-03,2024-11-09,,completed,22,6,-58400.0,14596.4,Late arrival,,Invalid rate or date
+11963,3,527,2,2024-10-27,2024-11-22,2024-11-27,,completed,26,5,-45300.0,16390.8,Late arrival,5,Invalid rate or date
+12108,1,1026,1,2024-10-30,2024-11-12,2024-11-14,,completed,13,2,-65000.0,12953.6,None,,Invalid rate or date
+12167,99999,880,1,2024-10-31,2024-12-23,2024-12-29,,completed,53,6,59800.0,16570.6,None,5,Unknown hotel
+13617,3,4272,1,2024-11-29,2024-12-15,2024-12-17,,completed,16,2,-64400.0,16524.2,None,5,Invalid rate or date
+13623,99999,50,1,2024-11-29,2024-12-01,2024-12-03,2024-11-29,cancelled,2,2,108000.0,14742.0,High floor,,Unknown hotel
+14129,3,7519,2,2024-12-10,2024-12-23,2024-12-24,2024-12-11,cancelled,13,1,-63000.0,16570.6,Late arrival,,Invalid rate or date
+14662,99999,2047,3,2024-12-22,2025-01-20,2025-01-23,,completed,29,3,61100.0,15002.0,None,4,Unknown hotel
+1501,3,869,1,2024-01-22,2024-02-27,2024-03-03,,completed,36,5,-40400.0,14830.6,Quiet room,5,Invalid rate or date
+15700,99999,2115,2,2025-01-19,2025-06-25,2025-07-01,,completed,157,6,42300.0,17637.8,None,,Unknown hotel
+16485,99999,7802,2,2025-02-10,2025-03-01,2025-03-04,,completed,19,3,45100.0,16965.0,None,3,Unknown hotel
+16870,2,5485,3,2025-02-20,2025-05-11,2025-05-17,,completed,80,6,-58600.0,15579.2,None,5,Invalid rate or date
+17461,3,2540,1,2025-03-08,2025-03-18,2025-03-21,,completed,10,3,-42500.0,17063.6,None,,Invalid rate or date
+17555,99999,6397,1,2025-03-10,2025-03-25,2025-03-28,,completed,15,3,44800.0,17104.2,Late arrival,,Unknown hotel
+17621,1,4130,2,2025-03-12,2025-05-06,2025-05-10,,completed,55,4,-62000.0,13758.6,None,,Invalid rate or date
+18985,99999,1331,2,2025-04-15,2025-05-19,2025-05-20,,completed,34,1,80600.0,15620.8,None,5,Unknown hotel
+1984,1,7526,3,2024-02-05,2024-02-24,2024-02-29,,completed,19,5,-52200.0,11748.4,Quiet room,,Invalid rate or date
+19865,2,4801,3,2025-05-06,2025-07-08,2025-07-09,,completed,63,1,-60600.0,15880.8,Late arrival,,Invalid rate or date
+20340,1,670,1,2025-05-17,2025-06-23,2025-06-25,,completed,37,2,-63300.0,13979.4,None,3,Invalid rate or date
+20899,3,5209,2,2025-05-30,2025-06-16,2025-06-17,,completed,17,1,-48100.0,17585.6,Quiet room,4,Invalid rate or date
+21250,99999,1127,3,2025-06-08,2025-07-17,2025-07-18,,completed,39,1,37900.0,17765.4,None,,Unknown hotel
+23204,99999,3461,1,2025-07-20,2025-08-13,2025-08-17,,completed,24,4,77900.0,16068.0,Late arrival,,Unknown hotel
+23438,1,1618,2,2025-07-25,2025-08-09,2025-08-12,2025-07-27,cancelled,15,3,-60100.0,14195.6,Late arrival,,Invalid rate or date
+23471,1,6525,2,2025-07-26,2025-08-06,2025-08-08,,completed,11,2,-61900.0,14181.8,None,5,Invalid rate or date
+24134,2,4371,3,2025-08-09,2025-09-14,2025-09-17,,completed,36,3,-64100.0,16234.4,High floor,4,Invalid rate or date
+24298,2,6414,3,2025-08-12,2025-08-15,2025-08-16,,completed,3,1,-69500.0,16078.4,None,,Invalid rate or date
+26985,2,5545,2,2025-10-15,2025-12-23,2025-12-26,,completed,69,3,-93000.0,16754.4,Late arrival,,Invalid rate or date
+27633,99999,7018,2,2025-10-30,2025-11-26,2025-11-30,,completed,27,4,67100.0,14697.0,None,,Unknown hotel
+28133,99999,613,3,2025-11-10,2025-12-06,2025-12-09,,completed,26,3,65200.0,18589.0,None,5,Unknown hotel
+28329,3,7124,2,2025-11-14,2025-12-18,2025-12-22,,completed,34,4,-69400.0,18658.6,None,5,Invalid rate or date
+28816,1,2393,1,2025-11-24,2025-12-15,2025-12-18,,completed,21,3,-87100.0,14784.4,High floor,,Invalid rate or date
+2989,3,5710,3,2024-03-07,2024-03-09,2024-03-13,,completed,2,4,-36700.0,14894.4,None,3,Invalid rate or date
+34,99999,6475,2,2023-10-14,2024-01-25,2024-01-26,2023-12-30,cancelled,103,1,37400.0,14639.2,None,,Unknown hotel
+3513,99999,6965,2,2024-03-23,2024-04-07,2024-04-11,,completed,15,4,41400.0,15062.6,None,4,Unknown hotel
+4955,99999,5335,2,2024-05-03,2024-05-11,2024-05-13,,completed,8,2,58800.0,12102.6,None,5,Unknown hotel
+5149,99999,1182,2,2024-05-09,2024-07-23,2024-07-25,,completed,75,2,50700.0,12438.4,None,4,Unknown hotel
+6034,1,6105,3,2024-06-02,2024-06-08,2024-06-09,,completed,6,1,-47800.0,12231.4,None,4,Invalid rate or date
+7152,1,6640,3,2024-06-30,2024-07-07,2024-07-12,,completed,7,5,-51200.0,12364.8,Late arrival,,Invalid rate or date
+9720,1,4698,2,2024-08-31,2024-09-15,2024-09-16,,completed,15,1,-61700.0,12686.8,None,,Invalid rate or date
+9777,2,1272,3,2024-09-02,2024-09-03,2024-09-04,,completed,1,1,-60400.0,14279.2,Late arrival,,Invalid rate or date

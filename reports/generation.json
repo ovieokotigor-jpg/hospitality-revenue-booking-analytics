@@ -1,0 +1,14 @@
+{
+  "seed": 161803,
+  "candidate_requests": 30000,
+  "capacity_declined_requests": 552,
+  "unique_accepted_bookings": 29448,
+  "raw_rows": {
+    "hotels": 3,
+    "guests": 8000,
+    "channels": 3,
+    "inventory": 2193,
+    "bookings": 29598,
+    "booking_nights": 78252
+  }
+}

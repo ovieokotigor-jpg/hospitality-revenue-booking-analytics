@@ -1,0 +1,4 @@
+channel_id,channel_name,commission_rate
+1,Direct,0.02
+2,OTA,0.18
+3,Corporate agent,0.1
